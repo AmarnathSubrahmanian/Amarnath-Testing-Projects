@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-04-03T11:50:32 IST" name="Default suite" finished-at="2024-04-03T11:52:31 IST" duration-ms="119191">
+    <groups>
+    </groups>
+    <test started-at="2024-04-03T11:50:32 IST" name="Default test" finished-at="2024-04-03T11:52:31 IST" duration-ms="119191">
+      <class name="TestPkg.ProjectDecathlonTest">
+        <test-method is-config="true" signature="setUp()[pri:0, instance:TestPkg.ProjectDecathlonTest@5ab956d7]" started-at="2024-04-03T11:50:32 IST" name="setUp" finished-at="2024-04-03T11:50:36 IST" duration-ms="3971" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setUp -->
+        <test-method signature="homepageValidation()[pri:0, instance:TestPkg.ProjectDecathlonTest@5ab956d7]" started-at="2024-04-03T11:50:36 IST" name="homepageValidation" finished-at="2024-04-03T11:52:31 IST" duration-ms="115194" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- homepageValidation -->
+      </class> <!-- TestPkg.ProjectDecathlonTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
